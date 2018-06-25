@@ -11,6 +11,8 @@ To run the kubernetes cluster on local machine you need Vagrant box. If you do n
 
 ```
 $ wget https://raw.githubusercontent.com/openebs/openebs/master/k8s/lib/vagrant/test/k8s/1.6/Vagrantfile
+git clone https://github.com/openebs/openebs
+
 ```
 
 ## Step 3: Bring k8s cluster up
